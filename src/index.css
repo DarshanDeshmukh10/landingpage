@@ -11,6 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root{
+  --bgc-card:rgba(203, 203, 203, 0.48);
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

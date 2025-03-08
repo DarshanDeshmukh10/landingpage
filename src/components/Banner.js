@@ -26,7 +26,7 @@ const Banner = () => {
               </p>
             </div>
         </div>
-      <div className='flex flex-row justify-around text-[#CBCBCB] font-[syne] px-20 '>
+      <div className='flex lg:flex-row sm:flex-col justify-around text-[#CBCBCB] font-[syne] px-20 '>
         <div className='flex flex-row w-[716px] h-16 py-4 px-8 gap-32'>
           <div className='flex flex-row gap-1'>
           <svg
