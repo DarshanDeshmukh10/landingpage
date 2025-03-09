@@ -9,13 +9,13 @@ const Banner = () => {
             <div className=' text-[#FFFFFF] text-6xl leading-[80px] font-[syne] font-extrabold max-w-[1240px] space-x-0 gap-4 px-10'>
             <p className="flex items-center justify-center gap-4">
             <span>I AM A</span>
-            <span> <img src={img1} width='128px'   className='rounded-[100px] inline h-16 object-cover object-center' /></span>
+            <span> <img src={img1} width='128px' alt='img1'  className='rounded-[100px] inline h-16 object-cover object-center' /></span>
               <span>FREELANCE</span>
               </p>
 
             <p className="flex items-center justify-center gap-4">
             <span>DESIGNER</span>
-            <span> <img src={img2} width='128px'   className='rounded-[100px] inline h-16 object-center ' /></span>
+            <span> <img src={img2} width='128px' alt='img2'  className='rounded-[100px] inline h-16 object-center ' /></span>
               <span>FROM</span>
               </p>
 
